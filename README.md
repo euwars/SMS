@@ -1,0 +1,2 @@
+# SMSArchive
+Farsi SMS dataset
