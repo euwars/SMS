@@ -6041,3 +6041,4 @@ spam	بانک سامان برداشت مبلغ خریدکالا از مانده
 spam	is this your number if you win the iqd korek will call you send yes to for free you can be the grand winner without paying for this sms after free day iqd day send yes to for free
 ham	اطلاعات خرید شما اینترنت پرسرعت حامی گیگ در ماه شناسه فاکتور جهت پرداخت سریع از پنل www ir و یا شماره گیری
 ham	مشترک گرامی خط فردا مهلت پرداخت شما است http my shatel ir
+ham	مسافر گرامی رزرو شما به مقصد فرودگاه امام تاریخ ساعت با موفقیت ثبت گردید سیر و سفر فرودگاه tlgrm me airportseirosafar
