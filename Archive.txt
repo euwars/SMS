@@ -6135,3 +6135,4 @@ spam	با کمک به ادامه تحصیل دانش آموزان نیازمند
 ham	مشترک گرامی جهت مدیریت هزینه رومینگ خود مطلع باشید بسته های اینترنتی در خارج از کشور کاربرد نداشته و هزینه بر اساس مصرف محاسبه میگردد در صورت عدم تمایل به استفاده از اینترنت سیم کارت گزینهdata roaming گوشی خود را در منوی تنظیمات غیر فعال نمایید امک
 ham	telegram code
 spam	now with korek studio application you can listen to all your favorites songs iraqi kurdish and arabic songs and share it with your friends download korek studio directly from google play or app store or send for english to first days free
+spam	سامانه پیام کوتاه ارمغان راه طلایی armaghan net داخلی عباسی ارمغان راه طلایی
