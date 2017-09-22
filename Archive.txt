@@ -6187,5 +6187,4 @@ spam	مشترک گرامی گالری خانه من عرضه کننده کالا
 spam	سینماتیکت سینما گالری سمرقند نگار
 spam	final hr left to activate your off custom animated video deal click here sharkstudios us to activate now grow your sales reply stoprc to stop
 ham	سینما کورش کد نگار شنبه مهر
-spam	مشترک گرامی شما اعتبار کافی برای ارسال پیامک خارج از شبکه را ندارید ارسال پیامک موفقیت آمیز نبود
 ham	مشترک گرامی شما اعتبار کافی برای ارسال پیامک خارج از شبکه را ندارید ارسال پیامک موفقیت آمیز نبود
