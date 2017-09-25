@@ -6233,3 +6233,4 @@ ham	reply to cancel at any time
 ham	enter uber code to continue
 spam	مشترک گرامی جهت پرداخت صورتحساب خود می توانید از هر یک از روش های زیر اقدام نمایید برنامه کاربردی ایرانسل من http irancell ir myirancell dls کارت شارژ رمز کارت شارژ از طریق بانک شماره حساب بانک ملت شماره حساب بانک ملی
 spam	rind pepper spot gb ungb newpepper nmce last rbr o n d pep o n cdm o n
+ham	بانک مسکن شرح تردد غیرمجـــاز از عوارضی تهران پردیس با شماره برچسب به دلیل کمبود موجودی زمان مبلغ عوارضی ریال لطفا نسبت به شارژ برچسب تا ساعت اقدام نمایید
